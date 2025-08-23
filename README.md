@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Vitor Manzano 👋</h1>
 
-<!--
-**vitormanzano/vitormanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Software Engineer</em>
+</p>
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm passionate about technology, building and learn.  
+  Here you’ll find projects, tutorials, and my experiments .Net and Angular :)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitor-manzano-345003305/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="vimanzanovillela@gmail.com">
+    <img src="https://img.shields.io/badge/-vimanzanovillela@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>

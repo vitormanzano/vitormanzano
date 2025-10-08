@@ -3,7 +3,6 @@
 <p align="center">
   <em>Software Engineer</em>
 </p>
----
 
 <p align="center">
   I'm passionate about technology, building and learn.  

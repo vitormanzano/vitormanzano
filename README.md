@@ -16,4 +16,7 @@
   <a href="vimanzanovillela@gmail.com">
     <img src="https://img.shields.io/badge/-vimanzanovillela@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
+  <a href="[VitorManzanoVillela](https://www.youtube.com/@VitorManzanoVillela)">
+   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white">
+  </a>
 </p>

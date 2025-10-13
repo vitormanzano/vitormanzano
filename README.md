@@ -6,7 +6,7 @@
 
 <p align="center">
   I'm passionate about technology, building and learn.  
-  Here you’ll find projects, tutorials, and my experiments .Net and Angular :)
+  Here you’ll find projects, tutorials, and my experiments with .Net and Angular :)
 </p>
 
 <p align="center">

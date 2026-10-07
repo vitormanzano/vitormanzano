@@ -19,6 +19,9 @@
   <a href="https://www.youtube.com/@VitorManzanoVillela" target="_blank">
    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white">
   </a>
+  <a href="https://vitormanzano.github.io/portfolio/" target="_blank">
+     Portfolio
+  </a>
 </p>
 
 <h3 align="center">🧠 Technologies & Tools</h3>
